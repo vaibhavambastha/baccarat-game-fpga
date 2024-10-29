@@ -1,7 +1,7 @@
 Coverage Report Summary Data by instance
 
 =================================================================================
-=== Instance: /tb_task5/dut/dp/dc
+=== Instance: /tb_baccarat/dut/dp/dc
 === Design Unit: work.dealcard
 =================================================================================
     Enabled Coverage              Bins      Hits    Misses  Coverage
@@ -11,7 +11,7 @@ Coverage Report Summary Data by instance
     Toggles                         16        16         0   100.00%
 
 =================================================================================
-=== Instance: /tb_task5/dut/dp/pcard1
+=== Instance: /tb_baccarat/dut/dp/pcard1
 === Design Unit: work.reg4
 =================================================================================
     Enabled Coverage              Bins      Hits    Misses  Coverage
@@ -21,7 +21,7 @@ Coverage Report Summary Data by instance
     Toggles                          8         1         7    12.50%
 
 =================================================================================
-=== Instance: /tb_task5/dut/dp/pcard2
+=== Instance: /tb_baccarat/dut/dp/pcard2
 === Design Unit: work.reg4
 =================================================================================
     Enabled Coverage              Bins      Hits    Misses  Coverage
@@ -31,7 +31,7 @@ Coverage Report Summary Data by instance
     Toggles                          8         2         6    25.00%
 
 =================================================================================
-=== Instance: /tb_task5/dut/dp/pcard3
+=== Instance: /tb_baccarat/dut/dp/pcard3
 === Design Unit: work.reg4
 =================================================================================
     Enabled Coverage              Bins      Hits    Misses  Coverage
@@ -41,7 +41,7 @@ Coverage Report Summary Data by instance
     Toggles                          8         0         8     0.00%
 
 =================================================================================
-=== Instance: /tb_task5/dut/dp/dcard1
+=== Instance: /tb_baccarat/dut/dp/dcard1
 === Design Unit: work.reg4
 =================================================================================
     Enabled Coverage              Bins      Hits    Misses  Coverage
@@ -51,7 +51,7 @@ Coverage Report Summary Data by instance
     Toggles                          8         2         6    25.00%
 
 =================================================================================
-=== Instance: /tb_task5/dut/dp/dcard2
+=== Instance: /tb_baccarat/dut/dp/dcard2
 === Design Unit: work.reg4
 =================================================================================
     Enabled Coverage              Bins      Hits    Misses  Coverage
@@ -61,7 +61,7 @@ Coverage Report Summary Data by instance
     Toggles                          8         3         5    37.50%
 
 =================================================================================
-=== Instance: /tb_task5/dut/dp/dcard3
+=== Instance: /tb_baccarat/dut/dp/dcard3
 === Design Unit: work.reg4
 =================================================================================
     Enabled Coverage              Bins      Hits    Misses  Coverage
@@ -71,7 +71,7 @@ Coverage Report Summary Data by instance
     Toggles                          8         2         6    25.00%
 
 =================================================================================
-=== Instance: /tb_task5/dut/dp/pcard1Seg
+=== Instance: /tb_baccarat/dut/dp/pcard1Seg
 === Design Unit: work.card7seg
 =================================================================================
     Enabled Coverage              Bins      Hits    Misses  Coverage
@@ -81,7 +81,7 @@ Coverage Report Summary Data by instance
     Toggles                         14        14         0   100.00%
 
 =================================================================================
-=== Instance: /tb_task5/dut/dp/pcard2Seg
+=== Instance: /tb_baccarat/dut/dp/pcard2Seg
 === Design Unit: work.card7seg
 =================================================================================
     Enabled Coverage              Bins      Hits    Misses  Coverage
@@ -91,7 +91,7 @@ Coverage Report Summary Data by instance
     Toggles                         14        14         0   100.00%
 
 =================================================================================
-=== Instance: /tb_task5/dut/dp/pcard3Seg
+=== Instance: /tb_baccarat/dut/dp/pcard3Seg
 === Design Unit: work.card7seg
 =================================================================================
     Enabled Coverage              Bins      Hits    Misses  Coverage
@@ -101,7 +101,7 @@ Coverage Report Summary Data by instance
     Toggles                         14        14         0   100.00%
 
 =================================================================================
-=== Instance: /tb_task5/dut/dp/dcard1Seg
+=== Instance: /tb_baccarat/dut/dp/dcard1Seg
 === Design Unit: work.card7seg
 =================================================================================
     Enabled Coverage              Bins      Hits    Misses  Coverage
@@ -111,7 +111,7 @@ Coverage Report Summary Data by instance
     Toggles                         14        14         0   100.00%
 
 =================================================================================
-=== Instance: /tb_task5/dut/dp/dcard2Seg
+=== Instance: /tb_baccarat/dut/dp/dcard2Seg
 === Design Unit: work.card7seg
 =================================================================================
     Enabled Coverage              Bins      Hits    Misses  Coverage
@@ -121,7 +121,7 @@ Coverage Report Summary Data by instance
     Toggles                         14        14         0   100.00%
 
 =================================================================================
-=== Instance: /tb_task5/dut/dp/dcard3Seg
+=== Instance: /tb_baccarat/dut/dp/dcard3Seg
 === Design Unit: work.card7seg
 =================================================================================
     Enabled Coverage              Bins      Hits    Misses  Coverage
@@ -131,7 +131,7 @@ Coverage Report Summary Data by instance
     Toggles                         14        14         0   100.00%
 
 =================================================================================
-=== Instance: /tb_task5/dut/dp/score_p
+=== Instance: /tb_baccarat/dut/dp/score_p
 === Design Unit: work.scorehand
 =================================================================================
     Enabled Coverage              Bins      Hits    Misses  Coverage
@@ -141,7 +141,7 @@ Coverage Report Summary Data by instance
     Toggles                         32        32         0   100.00%
 
 =================================================================================
-=== Instance: /tb_task5/dut/dp/score_d
+=== Instance: /tb_baccarat/dut/dp/score_d
 === Design Unit: work.scorehand
 =================================================================================
     Enabled Coverage              Bins      Hits    Misses  Coverage
@@ -151,7 +151,7 @@ Coverage Report Summary Data by instance
     Toggles                         32        32         0   100.00%
 
 =================================================================================
-=== Instance: /tb_task5/dut/dp
+=== Instance: /tb_baccarat/dut/dp
 === Design Unit: work.datapath
 =================================================================================
     Enabled Coverage              Bins      Hits    Misses  Coverage
@@ -159,7 +159,7 @@ Coverage Report Summary Data by instance
     Toggles                        164       164         0   100.00%
 
 =================================================================================
-=== Instance: /tb_task5/dut/sm
+=== Instance: /tb_baccarat/dut/sm
 === Design Unit: work.statemachine
 =================================================================================
     Enabled Coverage              Bins      Hits    Misses  Coverage
@@ -169,16 +169,16 @@ Coverage Report Summary Data by instance
     Toggles                         22        19         3    86.36%
 
 =================================================================================
-=== Instance: /tb_task5/dut
-=== Design Unit: work.task5
+=== Instance: /tb_baccarat/dut
+=== Design Unit: work.baccarat
 =================================================================================
     Enabled Coverage              Bins      Hits    Misses  Coverage
     ----------------              ----      ----    ------  --------
     Toggles                        146       143         3    97.94%
 
 =================================================================================
-=== Instance: /tb_task5
-=== Design Unit: work.tb_task5
+=== Instance: /tb_baccarat
+=== Design Unit: work.tb_baccarat
 =================================================================================
     Enabled Coverage              Bins      Hits    Misses  Coverage
     ----------------              ----      ----    ------  --------

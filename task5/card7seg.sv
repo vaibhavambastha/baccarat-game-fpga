@@ -17,7 +17,7 @@
 
 module card7seg(input logic [3:0] card, output logic [6:0] seg7);  //Reads a 4 bit input representing the card
                                                                    //and converts to 7 segment display 
-   // your code goes here
+   
    //Combinational logic that determines the 7-bit segment value for a 4-bit input value
    always_comb begin : led
      case(card)

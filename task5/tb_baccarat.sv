@@ -12,15 +12,8 @@
 `define JACK 7'b1100001
 `define QUEEN 7'b0011000
 `define KING 7'b0001001
-module tb_task5();
+module tb_baccarat();
 
-// Your testbench goes here. Make sure your tests exercise the entire design
-// in the .sv file.  Note that in our tests the simulator will exit after
-// 100,000 ticks (equivalent to "initial #100000 $finish();").
-
-// module task5(input logic CLOCK_50, input logic [3:0] KEY, output logic [9:0] LEDR,
-//             output logic [6:0] HEX5, output logic [6:0] HEX4, output logic [6:0] HEX3,
-//             output logic [6:0] HEX2, output logic [6:0] HEX1, output logic [6:0] HEX0);
 
 logic CLOCK_50;
 logic [3:0] KEY;
@@ -29,7 +22,7 @@ logic [6:0] HEX0, HEX1, HEX2, HEX3, HEX4, HEX5;
 
 
 
-task5 dut(
+baccarat dut(
     .CLOCK_50(CLOCK_50),
     .KEY(KEY),
     .LEDR(LEDR),

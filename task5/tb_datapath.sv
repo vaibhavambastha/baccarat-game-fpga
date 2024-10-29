@@ -14,9 +14,6 @@
 `define KING 7'b0001001
 module tb_datapath();
 
-// Your testbench goes here. Make sure your tests exercise the entire design
-// in the .sv file.  Note that in our tests the simulator will exit after
-// 10,000 ticks (equivalent to "initial #10000 $finish();").
 
 logic slow_clock, fast_clock, resetb, load_pcard1, load_pcard2, load_pcard3, load_dcard1, load_dcard2, load_dcard3;
 logic [3:0] pcard3_out, pscore_out, dscore_out;
