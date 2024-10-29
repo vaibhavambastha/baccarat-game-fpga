@@ -34,8 +34,11 @@ The state machine controls the operation of the game by:
   - DE1-SoC FPGA board
 
  ## FPGA
-| ![the Baccarat circuit](figures/baccarat-circuit.png) | ![the Baccarat circuit](figures/baccarat-fpga.jpg) |
-|:---:|:---:|
+<p align="center">
+  <img src="figures/baccarat-circuit.png" width="50%" height="50%" title="the Baccarat circuit" style="display: inline-block; margin-right: 10px;">
+  <img src="figures/baccarat-fpga.jpg" width="50%" height="50%" title="the Baccarat circuit" style="display: inline-block;">
+</p>
+
 
 
 
