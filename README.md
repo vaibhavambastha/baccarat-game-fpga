@@ -36,7 +36,7 @@ The state machine controls the operation of the game by:
  ## FPGA
  Baccarat circuit components including two input keys, a 50MHz clock, and the output of the circuit drives six seven-segment LEDs and ten lights
 <p align="center"><img src="figures/baccarat-circuit.png" width="50%" height="50%" title="Baccarat circuit"></p>
-Example of game result on De1-SoC board where the score of the player was (7+5+9)%10=1 shown from LEDR(3:0) and the score of the dealer was (4+9+6)%10=9 shown from LEDR(7:4). Thus, the dealer winning and LEDR(9) is asserted.  
+Example of game result on De1-SoC board. The score of the player was (7+5+9)%10=1 shown from LEDR(3:0) and the score of the dealer was (4+9+6)%10=9 shown from LEDR(7:4). Thus, the dealer winning and LEDR(9) is asserted.  
   <p align="center"><img src="figures/baccarat-fpga.jpg" width="50%" height="50%" title="FPGA example"></p>
 
 
