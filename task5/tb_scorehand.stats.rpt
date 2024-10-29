@@ -1,0 +1,27 @@
+Coverage Report Summary Data by instance
+
+=================================================================================
+=== Instance: /tb_scorehand/dut
+=== Design Unit: work.scorehand
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         6         6         0   100.00%
+    Statements                       8         8         0   100.00%
+    Toggles                         32        26         6    81.25%
+
+=================================================================================
+=== Instance: /tb_scorehand
+=== Design Unit: work.tb_scorehand
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Assertions                      36        36         0   100.00%
+    Statements                      37        37         0   100.00%
+    Toggles                         56        50         6    89.28%
+
+
+TOTAL ASSERTION COVERAGE: 100.00%  ASSERTIONS: 36
+
+Total Coverage By Instance (filtered view): 96.59%
+

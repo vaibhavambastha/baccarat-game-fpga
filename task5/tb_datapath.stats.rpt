@@ -1,0 +1,175 @@
+Coverage Report Summary Data by instance
+
+=================================================================================
+=== Instance: /tb_datapath/dut/dc
+=== Design Unit: work.dealcard
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         3         3         0   100.00%
+    Statements                       4         4         0   100.00%
+    Toggles                         16        16         0   100.00%
+
+=================================================================================
+=== Instance: /tb_datapath/dut/pcard1
+=== Design Unit: work.reg4
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         3         2         1    66.66%
+    Statements                       3         2         1    66.66%
+    Toggles                          8         0         8     0.00%
+
+=================================================================================
+=== Instance: /tb_datapath/dut/pcard2
+=== Design Unit: work.reg4
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         3         3         0   100.00%
+    Statements                       3         3         0   100.00%
+    Toggles                          8         2         6    25.00%
+
+=================================================================================
+=== Instance: /tb_datapath/dut/pcard3
+=== Design Unit: work.reg4
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         3         3         0   100.00%
+    Statements                       3         3         0   100.00%
+    Toggles                          8         2         6    25.00%
+
+=================================================================================
+=== Instance: /tb_datapath/dut/dcard1
+=== Design Unit: work.reg4
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         3         3         0   100.00%
+    Statements                       3         3         0   100.00%
+    Toggles                          8         2         6    25.00%
+
+=================================================================================
+=== Instance: /tb_datapath/dut/dcard2
+=== Design Unit: work.reg4
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         3         3         0   100.00%
+    Statements                       3         3         0   100.00%
+    Toggles                          8         3         5    37.50%
+
+=================================================================================
+=== Instance: /tb_datapath/dut/dcard3
+=== Design Unit: work.reg4
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         3         3         0   100.00%
+    Statements                       3         3         0   100.00%
+    Toggles                          8         5         3    62.50%
+
+=================================================================================
+=== Instance: /tb_datapath/dut/pcard1Seg
+=== Design Unit: work.card7seg
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        14        14         0   100.00%
+    Statements                      15        15         0   100.00%
+    Toggles                         14        14         0   100.00%
+
+=================================================================================
+=== Instance: /tb_datapath/dut/pcard2Seg
+=== Design Unit: work.card7seg
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        14        14         0   100.00%
+    Statements                      15        15         0   100.00%
+    Toggles                         14        14         0   100.00%
+
+=================================================================================
+=== Instance: /tb_datapath/dut/pcard3Seg
+=== Design Unit: work.card7seg
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        14        14         0   100.00%
+    Statements                      15        15         0   100.00%
+    Toggles                         14        14         0   100.00%
+
+=================================================================================
+=== Instance: /tb_datapath/dut/dcard1Seg
+=== Design Unit: work.card7seg
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        14        14         0   100.00%
+    Statements                      15        15         0   100.00%
+    Toggles                         14        14         0   100.00%
+
+=================================================================================
+=== Instance: /tb_datapath/dut/dcard2Seg
+=== Design Unit: work.card7seg
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        14        14         0   100.00%
+    Statements                      15        15         0   100.00%
+    Toggles                         14        14         0   100.00%
+
+=================================================================================
+=== Instance: /tb_datapath/dut/dcard3Seg
+=== Design Unit: work.card7seg
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        14        14         0   100.00%
+    Statements                      15        15         0   100.00%
+    Toggles                         14        14         0   100.00%
+
+=================================================================================
+=== Instance: /tb_datapath/dut/score_p
+=== Design Unit: work.scorehand
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         6         6         0   100.00%
+    Statements                       8         8         0   100.00%
+    Toggles                         32        32         0   100.00%
+
+=================================================================================
+=== Instance: /tb_datapath/dut/score_d
+=== Design Unit: work.scorehand
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         6         6         0   100.00%
+    Statements                       8         8         0   100.00%
+    Toggles                         32        32         0   100.00%
+
+=================================================================================
+=== Instance: /tb_datapath/dut
+=== Design Unit: work.datapath
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Toggles                        164       164         0   100.00%
+
+=================================================================================
+=== Instance: /tb_datapath
+=== Design Unit: work.tb_datapath
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Assertions                      86        86         0   100.00%
+    Statements                     305       305         0   100.00%
+    Toggles                        134       132         2    98.50%
+
+
+TOTAL ASSERTION COVERAGE: 100.00%  ASSERTIONS: 86
+
+Total Coverage By Instance (filtered view): 97.96%
+
